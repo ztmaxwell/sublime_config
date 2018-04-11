@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C Improved",
+		"Colorsublime",
+		"CoolFormat",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"MarkdownEditing",
+		"Package Control",
+		"SyncedSideBar",
+		"Terminal",
+		"TrailingSpaces",
+		"WordCount"
+	]
+}

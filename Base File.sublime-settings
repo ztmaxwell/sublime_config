@@ -1,0 +1,9 @@
+{
+    "jsdocs_extra_tags":[
+        "@Author freddie.zhang",
+        "@DateTime {{date}}",
+    ],
+    "jsdocs_function_description": true,
+    "jsdocs_extra_tags_go_after": true,
+    "jsdocs_spacer_between_sections": true,
+  }
